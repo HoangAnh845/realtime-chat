@@ -1,0 +1,5 @@
+1. Câu lệnh `npm install @ant-design/icons axios react-chat-engine`
+    `@ant-design/icons`: Gói này cung cấp các biểu tượng (icons) sẵn có được sử dụng trong ứng dụng React bằng cách sử dụng Ant Design.
+    `axios`: Gói này cung cấp các phương thức để thực hiện các yêu cầu HTTP trong ứng dụng React.
+    `react-chat-engine`: Gói này cung cấp các thành phần và công cụ để xây dựng tính năng trò chuyện (chat) trong ứng dụng React.
+2. `axios` là một thư viện HTTP client được sử dụng trong các ứng dụng web để tương tác với các API và phục vụ các yêu cầu HTTP khác nhau.
