@@ -3,3 +3,10 @@
     `axios`: Gói này cung cấp các phương thức để thực hiện các yêu cầu HTTP trong ứng dụng React.
     `react-chat-engine`: Gói này cung cấp các thành phần và công cụ để xây dựng tính năng trò chuyện (chat) trong ứng dụng React.
 2. `axios` là một thư viện HTTP client được sử dụng trong các ứng dụng web để tương tác với các API và phục vụ các yêu cầu HTTP khác nhau.
+echo "# realtime-chat" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HoangAnh845/realtime-chat.git
+git push -u origin main
